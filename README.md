@@ -1,2 +1,2 @@
 # Assignments-BDA58
-Upload Assignments -> Coder Name - Week No. - Assignment Number
+Upload Assignments -> Nikita Chhetri - Week No. 1 - Assignment Number 1
